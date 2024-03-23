@@ -22,11 +22,11 @@ Here are some of the tools and technologies I work with:
 I'd love to connect with you! Feel free to reach out on GitHub or via email.
 
 - GitHub: [RVDveloper](#)
-- Email: [email@example.com](mailto:email@example.com)
+- Email: [rvdveloper@gmail.com](mailto:rvdveloper@gmail.com)
 
 ## 💼 Hire Me
 
-Looking for a dedicated developer for your next project? I'm ready to collaborate! Drop me an email at [email@example.com](mailto:email@example.com) to discuss opportunities.
+Looking for a dedicated developer for your next project? I'm ready to collaborate! Drop me an email at [rvdveloper@gmail.com](mailto:rvdveloper@gmail.com) to discuss opportunities.
 
 
 
