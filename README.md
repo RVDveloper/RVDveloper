@@ -1,6 +1,5 @@
 # 👋 Hi there! I'm RVDveloper!
 
-## About Me
 
 I'm a young and passionate developer exploring the world of software development. Welcome to my GitHub profile! I'm still learning and growing as a developer, so you'll find a mix of projects here as I explore different technologies and improve my skills.
 
